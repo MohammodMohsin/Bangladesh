@@ -1,0 +1,132 @@
+<html>
+	<head>
+		<title> Beautiful Bangladesh </title>
+		<link href="style.css" rel="stylesheet" type="text/css"/>
+	</head>
+	
+	<body>
+		<div class="main">
+			<div class="header">
+                                           <img src="images/view.jpg"/ height="180px" width="1350" >
+			</div>
+			<div class="menu">
+				<ul>
+
+				               <li><a href="home.html">Home</a></li>
+					<li><a href="history.html">History</a></li>
+					<li><a href="division.html">Division</a></li>
+                                                                        <li><a href="culture.html">Culture</a></li>
+                                                                        <li><a href="religious.html">Religion</a></li>
+					<li><a href="places.html">Attractive Places</a></li>
+					<li><a href="sports.html">Sports</a></li>
+                                                                        <li><a href="rivers.html">Rivers</a></li>
+                                                                        <li><a href="foods.html">Foods</a></li>
+				</ul>
+			</div>
+			<div class="slider">
+				<img src="images/sm.jpg"/ height="180px" width="1350">
+			</div> 
+			<div class="ber">
+<div id="a">
+<p>
+</br>Late 19th and early 20th century polymaths Rabindranath Tagore and Kazi Nazrul Islam.Bengali has a rich literary heritage, which Bangladesh shares with the</br></br>
+Indian state of West Bengal. The earliest literary text in Bengali is the 8th century Charyapada. Medieval Bengali literature was often either religious (for </br></br>
+example, Chandidas), or adapted from other languages (for example, Alaol). Bengali literature reached its full expression in the 19th century,with its greatest</br></br>
+icons being poets,the national poet Kazi Nazrul Islam,Rabindranath Tagore, Sarat Chandra, Jasim Uddin, Jibanananda Das, Shamsur Rahman, Al Mahmud,</br></br>
+Sukanta Bhattacharya, Ishwar Chandra Vidyasagar, Michael Madhusudan Dutt and present day Humayun Ahmed, Muhammed Zafar Iqbal. Bangladesh also</br></br>
+has a long tradition in folk literature, for example Maimansingha Gitika, Thakurmar Jhuli and stories  related to Gopal Bhar, Birbal and Molla Nasiruddin.
+</br></br></br>
+<p align="center"><u><b>MUSIC AND THE ARTS</b></u></p> </br></br>
+Main articles: Music of Bangladesh and Bangladeshi art</br></br>
+The one string ektara is often played by Baul folk minstrels</br></br>
+The musical tradition of Bangladesh is lyrics-based (Baniprodhan), with minimal instrumental accompaniment. Numerous musical traditions exist including </br></br>
+Gombhira, Bhatiali and Bhawaiya, varying from one region to the next.Folk music is accompanied by the ektara, an instrument with only one string. Other</br></br>
+instruments include the dotara,  dhol, flute,and tabla. Bangladesh also has an active heritage in North Indian classical music. Similarly,Bangladeshi dance forms</br></br>
+draw from folk traditions, especially those of the tribal groups, as well as the broader Indian dancetradition.The Baul tradition was included in the list of</br></br>
+ "Masterpieces of the Oral and Intangible Heritage of Humanitytradition.The by UNESCO.
+</br></br></br>
+<p align="center"><u><b>CINEMA</b></u></p> </br></br>
+Main article: Cinema of Bangladesh</br></br>
+The Bangladeshi film industry has been based in Bangladesh's capital, Dhaka, since 1956. As of 2004, it produced approximately 100 movies a year,with an</br></br>
+average movie budget of about 20,000,000 Bangladeshi taka. The film industry is known as Dhallywood, a portmanteau of the words Dhaka and Hollywood.</br></br>
+ Bangladesh produces about 80  films a year.</br></br></br>
+
+<p align="center"><u><b>MEDIA</b></u></p> </br></br>
+Main article: Media of Bangladesh</br></br>
+See also: List of Bangladeshi television and radio channels</br></br>
+Around 200 daily newspapers are published in Bangladesh, along with more than 500 periodicals. However, regular readership is low at just under 15% of the </br></br>
+population.Bangladeshis listen to a variety of local and national radio programs like Bangladesh Betar. Several private FM radio stations (Radio Foorti, ABC </br></br>
+Radio, Radio Today, Radio Amar etc.) are popular among urban youths.International Bengali-language broadcasts include BBC Bangla and Voice of America.</br></br>
+The dominant television channel is the state-owned Bangladesh Television,but in the last few years,privately owned channels have developed considerably.</br></br>
+Some popular privately owned TV channels are ATN Bangla, Channel i, NTV, Ekushey Television, Desh TV, RTV, Banglavision, Islamic TV, Boishakhi TV, </br></br>
+Mohona TV, ATN News, Somoy TV, Independent TV, Channel 9 Bangladesh etc.</br></br></br>
+<p align="center"><u><b>CUISINE</b></u></p> </br></br>
+Main article: Bangladeshi cuisine</br></br>
+Cham cham, a traditional sweet in Bangladeshi cuisine</br></br>The culinary tradition of Bangladesh has close relations to surrounding Bengali and </br></br>
+North-East Indian cuisine as well as having its own unique traits. Rice and fish are traditional favourites. With an emphasis on fish, vegetables and lentils </br></br>
+served with rice as a staple diet. Biryani is a favourite dish of Bangladesh and this includes egg biryani,mutton biryani and beef biryani.Bengaladeshi cuisine is </br></br>
+known for its subtle (yet sometimes fiery) flavours,and its huge spread of confectioneries and desserts. Bangladeshis make distinctive sweetmeats from milk</br></br>
+products,some common ones being Roshogolla, Rasmalai, Roshomalai, chomchom and kalojam. It also has the only  traditionally developed multi-course</br></br>
+tradition from the Indian subcontinent that is analogous in structure to the modern  service a la russe style of French cuisine, with food served course-wise rather</br></br>
+ than all at once.</br></br></br>
+<p align="center"><u><b>TEXTILES AND CRAFTSMANSHIF</b></u></p> </br></br>
+Main articles: Bangladesh textile industry and Textile arts of Bangladesh</br></br>
+The Sari (shari) is the traditional dress for Bangladeshi woman and by far the most widely worn dress by Bangladeshi womem. A guild of weavers in Dhaka is</br></br>
+renowned for producing saris from exquisite Jamdani muslin. The salwar kameez (shaloar kamiz) is also quite popular among espcially the younger females,</br></br>
+and in urban areas a lot of women wear western attire.Among men,western attire is more widely adopted. Men also wear the Panjabi and paejama combination,</br></br>
+often on special occasions, and the lungi, a kind of long skirt for men.</br></br></br>
+<p align="center"><u><b >FESTIVALS</b></u></p> </br></br>
+Main article: Public holidays in Bangladesh</br></br>
+Shaheed Minar, as displayed on the annual anniversary of Bengali Language Movement Day (International Mother Language Day) The Muslim holidays of </br></br>
+Eid al-Fitr and Eid al-Adha, the Bengali New Year, Independence day, Victory  Day, the Hindu festivals of Durga Puja and Krishna Janmashtami, the Buddhist </br></br>
+festival of Buddha Purnima, which marks the birth of  Gautama Buddha, and Christmas, called Borodin (" the Great day"), are national holidays in Bangladesh </br></br>
+and see the most widespread celebrations in the country.</br></br>
+Pohela Boishakh, the Bengali new year, is the major festival of Bengali culture and sees widespread festivities. Of the major holidays celebrated in Bangladesh,</br></br>
+Only Pohela Boishakh comes without any preexisting expectations (specific religious identity, culture of gift-giving, etc.). Unlike holidays like Eid al-Fitr, </br></br>
+where dressing up in lavish clothes has become a norm, or Christmas where exchanging gifts has become an integral part of the holiday, Pohela Boishakh is</br></br>
+really about celebrating the simpler,rural roots of the Bengal. As a result, more people can participate in the festivities together without the burden of having to </br></br>
+reveal one's class,religion, or financial capacity.Othercultural festivals include Nabonno, and Poush porbon (festival of Poush), both Bengali harvest festivals.</br></br>
+Alongside these are national days like the remembrance of 21 February 1952 Language Movement Day (International Mother Language Day), Independence</br></br>
+Day and Victory Day. On Language Movement Day, people congregate at the Shaheed Minar in Dhaka to remember the national heroes of the Bengali</br></br>
+Language Movement, and at the Jatiyo Smriti  Soudho on Independence Day and Victory Day to remember the national heroes of the Bangladesh Liberation </br></br>
+War.These  occasions are observed with public ceremonies, parades,rallies by citizens,political speeches,fairs, concerts,and  various other public and private</br></br>
+events celebrating the history and traditions of Bangladesh.TV and radio stations broadcast special programs and patriotic songs. And many schools and </br></br>
+colleges organise fairs, festivals, and concerts in  which citizens from all levels of society can participate.</br></br></br>
+<p align="center"><u><b>ARCHITECTURE</b></u></p> </br></br>
+Main articles: Architecture of Bangladesh and List of Bangladeshi architects</br></br>
+Bangladesh has appealing architecture from historic treasures to contemporary landmarks. The architecture of Bangladesh has a long history and is rooted in </br></br>
+Bangladesh's culture, religion and history. It has evolved over centuries and assimilated influences from social, religious and exotic communities. The</br></br>
+architecture of Bangladesh bears a remarkable impact on the lifestyle, tradition and cultural life of Bangladeshi people. Bangladesh has many architectural</br></br>
+relics and monuments dating back thousands of years.Bangladesh has a strong tradition of regional modernism and combining the cultural and environmental </br></br>
+heritage of the Bengal delta with contemporary modern architecture.Many prominent international architects have worked in  Bangladesh, including Louis </br></br>
+Kahn, Konstantinos Doxiadis, Richard Neutra, Stanley Tigerman, Paul Rudolph and  Robert Boughey. Leading Bangladeshi architects include Fazlur Rahman </br></br>
+Khan, Muzharul Islam, Rafiq Azam, Kashef Mahboob Chowdhury,  Bashirul Haq, Ehsan Khan and others.</br></br></br>
+<p align="center"><u><b>SPORTS</b></u></p> </br></br>
+Main article: Sports in Bangladesh</br></br>
+See also: National sports teams of Bangladesh</br></br>
+Cricket is one of the most popular sports in Bangladesh,followed by football.The national cricket team participated in their first Cricket World Cup in 1999,and </br></br>
+the following year was granted elite Test cricket status. But they havestruggled to date, recording only ten Test match victories: eight against Zimbabwe with </br></br>
+five in 2005 and three in 2014, the other two came in a 2-0 series victory over the West Indies in 2009.The team has been more successful in One Day</br></br>
+International cricket. In July 2010, they celebrated their first ever win over England in any form of match. Later in 2010, they beat New Zealand for the first </br></br>
+time. In late 2012, they won a five-match home ODI series3-2 against a full-strength West Indies National team. In 2011, Bangladesh successfully co-hosted </br></br>
+the ICC Cricket World Cup 2011 with India and SriLanka. </br></br>
+In 2012, the country hosted the Asia Cup. The team beat India and Sri Lanka but failed to keep the reputation in the final game against Pakistan. However, it </br></br>
+was the first time Bangladesh had advanced to the final of any majorcricket tournament.</br></br>
+They participated at the 2010 Asian Games in Guangzhou, defeating Afghanistan to claim their Gold Medal in the first ever cricket tournament held in the </br></br>
+Asian Games. Bangladeshi cricketer Sakib Al Hasan is no.1 on the ICC'sall-rounder rankings in all three formats of the cricket.</br></br>
+Kabaddi is a very popular game in Bangladesh,considered the national game.Other popular sports include field hockey,tennis,badminton,handball,basketball,</br></br>
+volleyball, chess, shooting, angling. The National Sports Council
+regulates 42 different sporting federations.</br></br>
+Bangladesh have 5 grand masters in chess. Among them, Niaz Murshed was the first grand master in South Asia. In another achievement, Margarita Mamun, a </br></br>
+Russian rhythmic gymnast of Bangladeshi origin, became world's champion 
+ in 2013 and 2014.</br></br>
+</p>
+</div>
+				
+			</div>
+			<div class="footer">
+				<p>Designed by Md. Mohsin(1422046) </p>
+			</div>
+		</div>
+	</body>
+</html>

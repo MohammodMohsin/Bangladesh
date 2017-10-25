@@ -1,0 +1,28 @@
+*{margin:0;padding:0;}
+body{ background:silver;font-family:Arial;font-size:16px; line-height:15px;color:black;}
+
+
+.main{ background:silver;width:1300px;border:2px solid gray;margin:5px auto;display:block; overflow:hidden;}
+
+header{height:180px;}
+
+.menu{background:gray; overflow:hidden;border:2px solid gray;}
+.menu ul{margin:0;padding:0;list-style:none;}
+.menu ul li{float:left;border-right:1px solid silver;}
+.menu ul li a{display:block;color:black;padding:9px 51px;text-decoration:none;}
+.menu ul li a:hover{background:silver;}
+
+.slider img{height:200px;}
+
+.ber{background:silver;overflow:hidden;font-family:normal;font-size:20px;}
+#a{margin:5px;padding:5px;}
+.leftber{float:left;overflow:hidden;width:180px;border:2px solid gray;font-size:18px;}
+.leftber ul{list-style:none;margin:0;padding:0;background:gray;}
+.leftber ul li{border-bottom:1px solid #ddd;}
+.leftber ul li a{display:block;text-decoration:none;padding:12px 40px;color:#000;}
+.leftber ul li a:hover{background:silver}
+
+.rightber{float:left;width:1114px;border:1px solid gray;}
+#b{margin:7px;padding:10px;}
+
+.footer{background:gray;text-align:center;color:black;padding:9px;}
